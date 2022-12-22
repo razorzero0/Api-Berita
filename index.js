@@ -41,10 +41,8 @@ $data = [{
 }
 ]
 app.get('/', (req, res) => {
-    res.status(404);
-    res.json($data);
-    res.send(req.params)
-    res.send()
+    res.send($data[Math.floor(Math.random() * 6)]);
+    // res.json($data);
 })
 
 app.get('/news/:Id', (req, res) => {
