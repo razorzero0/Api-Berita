@@ -41,7 +41,7 @@ $data = [{
 }
 ]
 app.get('/', (req, res) => {
-    res.send($data[Math.floor(Math.random() * 6)]);
+    res.send($data[Math.floor(Math.random() * 5)]);
     // res.json($data);
 })
 
