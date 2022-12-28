@@ -4,39 +4,38 @@ const port = 3000
 
 
 $data = [{
-  "Pembuat" : " Muh. Ainun",
+ 
   "id":"0",
-  "author": "CNN Indonesia",
-"title": "Teleskop James Webb Sempat Dihantam Masalah Software, Kondisi Bahaya? - CNN Indonesia",
-"description": "Teleskop James Webb sudah pulih, setelah sebelumnya mengalami gangguan perangkat lunak. Semesta siap dipantau kembali.",
+  "sumber": "Viva.co.id",
+"judul": "Lawan Thailand, Shin Tae-yong Ungkap Kerugian Besar Timnas Indonesia - VIVA - VIVA.co.id",
+"url":"https://www.viva.co.id/bola/liga-indonesia/1559916-lawan-thailand-shin-tae-yong-ungkap-kerugian-besar-timnas-indonesia"
 },
 {
-  "Pembuat" : " Muh. Ainun",
+ 
   "id":"1",
-  "author": "Okezone.com",
-"title": "Apa yang Terjadi Jika Tidak Ada Pohon di Bumi? Ini Jawabannya - Okezone.com",
-"description": "Pohon menawarkan banyak manfaat bagi Bumi dan seisinya. Mereka adalah bagian penting dari siklus ekologi alam.",
+  "sumber": "news.detik.com",
+"judul": "Prediksi Cuaca Ekstrem, Begini Kondisi Langit Jakarta Siang Ini - detikNews",
+"url":"https://news.detik.com/berita/d-6485293/prediksi-cuaca-ekstrem-begini-kondisi-langit-jakarta-siang-ini"
 },
 {
-  "Pembuat" : " Muh. Ainun",
+ 
   "id":"2",
-  "author": "Detik.com",
-"title": "Jokowi Akan Setop PPKM Akhir Tahun, Gibran: Kenapa Nggak dari Dulu? - detikNews",
-"description": "Wali Kota Solo Gibran Rakabuming Raka sepakat dengan keputusan Presiden Joko Widodo (Jokowi) yang akan mencabut kebijakan PPKM dan PSBB.",
+  "sumber": "Okezone.com",
+"judul": "Disebut Dicurangi Wasit di Piala AFF 2022, Timnas Malaysia Didorong Tinggalkan AFF dan Gabung EAFF - Okezone Bola",
+"url": "https://bola.okezone.com/read/2022/12/28/51/2735650/disebut-dicurangi-wasit-di-piala-aff-2022-timnas-malaysia-didorong-tinggalkan-aff-dan-gabung-eaff",
 },
 {
-  "Pembuat" : " Muh. Ainun",
+ 
   "id":"3",
-  "author": "CNN Indonesia",
-"title": "InSight di Mars Hilang Kontak, Cek Gambar Terakhirnya Sebelum Pensiun - CNN Indonesia",
-"description": "Wahana antariksa InSight hilang kontak di Mars dengan memberi gambar terakhir berupa daratan kering. Mungkin sudah waktunya dia pensiun.",
+  "sumber": "Tribunnews.com",
+"judul": "Harga Hp Samsung A13 5G Terbaru Desember 2022, Baterai Jumbo Tahan Pemakaian 2 Hari Cuma Rp 2 Jutaan - Bangkapos.com",
+"url": "https://bangka.tribunnews.com/2022/12/28/harga-hp-samsung-a13-5g-terbaru-desember-2022-baterai-jumbo-tahan-pemakaian-2-hari-cuma-rp-2-jutaan",
 },
 {
-  "Pembuat" : "Muh. Ainun",
   "id":"4",
-  "author": "Cnbcindonesia.com",
-"title": "Tok! Naik Lagi 25 Bps, Suku Bunga Acuan BI Kini 5,50% - CNBC Indonesia",
-"description": "Bank Indonesia (BI) menaikkan suku bunga acuan sebesar 25 bps menjadi 5,50% pada Rapat Dewan Gubernur (RDG) yang berlangsung 21-22 Desember 2022.",
+  "sumber": "Detik.com",
+"judul": "Pembunuh Wanita Open BO di Sidoarjo Jual 2 HP Korban untuk Kabur - detikNews",
+"url": "https://news.detik.com/berita/d-6485159/pembunuh-wanita-open-bo-di-sidoarjo-jual-2-hp-korban-untuk-kabur",
 
 }
 ]
